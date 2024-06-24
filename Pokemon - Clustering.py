@@ -90,15 +90,6 @@ plt.show()
 #According to the analysis we decided to keep 6 clusters
 
 #%% Generating variable for the cluster in the database
-
-## Deve ser realizada a seguinte parametrização:
-    ## Número de clusters (n_clusters)
-    ## Medida de distância (metric)
-    ## Método de encadeamento (linkage)
-    
-# Como já observamos 3 clusters no dendrograma, vamos selecionar "3" clusters
-# A medida de distância e o método de encadeamento são mantidos
-
 cluster_complete = AgglomerativeClustering(n_clusters = 6, metric = 'euclidean', linkage = 'complete')
 indica_cluster_complete = cluster_complete.fit_predict(db_pokemon_1stgen_stats)
 db_pokemon_1stgen['cluster_complete'] = indica_cluster_complete
