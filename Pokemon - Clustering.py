@@ -30,7 +30,7 @@ fig = px.scatter_3d(db_pokemon_1stgen,
                     x='hp', 
                     y='attack', 
                     z='defense',
-                    text=db_pokemon.name)
+                    text=db_pokemon_1stgen.name)
 fig.show()
 
 #%%  selecting variables for clustering
