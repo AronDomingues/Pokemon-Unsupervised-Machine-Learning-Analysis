@@ -29,5 +29,16 @@ https://www.kaggle.com/datasets/rounakbanik/pokemon
 Factor analysis was conducted to reduce the number of variables, which allowed us to rank Pokémon based on the factors.
 This reduction facilitated ranking and clustering Pokémons by their similarities.
 
-# It was possible to define which of the clusters has the best pokemons according to defined parameters.
+# It was possible to see that cluster 4 has the best pokemons according to defined parameters.
+
+Describing results:
+
+![image](https://github.com/user-attachments/assets/193d3fac-eb9a-436d-af41-4aa5b50d23f7)
+
+Ranking in a descending order -best one first- :
+
+![image](https://github.com/user-attachments/assets/93599d5f-a47b-4a8a-a403-4d6799be5336)
+
+
+
 
