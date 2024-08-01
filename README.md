@@ -31,5 +31,8 @@ By applying these techniques, we aim to gain a comprehensive understanding of th
 Factor analysis was conducted to reduce the number of variables, which allowed us to rank Pokémon based on the factors.
 This reduction facilitated ranking and clustering Pokémons by their similarities.
 
-**It was possible to define which of the clusters has the best pokemons according to defined parameters**.
+
+
+
+# It was possible to define which of the clusters has the best pokemons according to defined parameters.
 
