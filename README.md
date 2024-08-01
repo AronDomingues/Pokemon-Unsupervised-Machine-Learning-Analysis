@@ -1,4 +1,4 @@
-# Unsupervised Machine Learning analysis regarding Pokemons!
+# Unsupervised Machine Learning analysis regarding Pokémon!
 
 
 ## 📝INTRO
@@ -8,7 +8,7 @@ In this project, we explore the fascinating data of **Pokémon through the lens 
 ## 📝OBJECTIVE
 
 By uncovering hidden patterns and insights from the Pokémon dataset without relying on predefined labels,
-the **objective** of this analysis is to **group and rank pokemons based on selected characteristics: HP, Attack, Defense, SP Attack, and SP Defense**.
+the **objective** of this analysis is to **group and rank Pokémon based on selected characteristics: HP, Attack, Defense, SP Attack, and SP Defense**.
 
 To achieve this, we apply a variety of UML techniques including clustering, factor analysis, ranking, and correspondence analysis (CA).
 
@@ -25,13 +25,13 @@ By applying these techniques, we aim to gain a comprehensive understanding of th
 Factor analysis was conducted to reduce the number of variables, which allowed us to rank Pokémon based on the factors.
 This reduction facilitated ranking and clustering Pokémons by their similarities.
 
-# It was possible to see that cluster 4 has the best pokemons according to defined parameters.
+# It was possible to see that cluster 4 has the best Pokémon according to defined parameters.
 
 Describing Cluster 4 stats:
 
 ![image](https://github.com/user-attachments/assets/193d3fac-eb9a-436d-af41-4aa5b50d23f7)
 
-Ranking Cluster 4 pokemons in a descending order -best one first- :
+Ranking Cluster 4 Pokémon in a descending order -best one first- :
 
 ![image](https://github.com/user-attachments/assets/93599d5f-a47b-4a8a-a403-4d6799be5336)
 
