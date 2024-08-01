@@ -21,10 +21,6 @@ To achieve this, we apply a variety of UML techniques including clustering, fact
 
 By applying these techniques, we aim to gain a comprehensive understanding of the Pokémon data, reveal distinctive groupings, and uncover valuable relationships that could inform further research or applications in the Pokémon domain.
 
-## 📝DATA REFERENCE
-
-https://www.kaggle.com/datasets/rounakbanik/pokemon
-
 ## 📝RESULTS
 Factor analysis was conducted to reduce the number of variables, which allowed us to rank Pokémon based on the factors.
 This reduction facilitated ranking and clustering Pokémons by their similarities.
@@ -39,6 +35,9 @@ Ranking Cluster 4 pokemons in a descending order -best one first- :
 
 ![image](https://github.com/user-attachments/assets/93599d5f-a47b-4a8a-a403-4d6799be5336)
 
+## 📝DATA REFERENCE
+
+https://www.kaggle.com/datasets/rounakbanik/pokemon
 
 
 
