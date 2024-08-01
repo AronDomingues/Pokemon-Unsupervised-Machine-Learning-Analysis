@@ -14,7 +14,7 @@ To achieve this, we apply a variety of UML techniques including clustering, fact
 
 ## 📝METHODOLOGY
 
-1) PCA Principal component analysis aids in reducing the dimensionality of the data, highlighting the key factors that drive Pokémon characteristics (HP, Attack, Defense, SP Attack, and SP Defense) into Factors.
+1) PCA principal component analysis aids in reducing the dimensionality of the data, highlighting the key factors that drive Pokémon characteristics (HP, Attack, Defense, SP Attack, and SP Defense) into Factors.
 2) Ranking provides a method to evaluate and prioritize Pokémon based on the defined Factors, offering a structured approach to assess their relative significance.
 3) Clustering is utilized to group Pokémon into distinct clusters based on their similarities, enabling us to identify underlying patterns in their attributes.
 4) Correspondence Analysis (CA) is employed to analyze and visualize the relationships between clusters and ranking scores , providing insights into the associations and patterns within the dataset.
