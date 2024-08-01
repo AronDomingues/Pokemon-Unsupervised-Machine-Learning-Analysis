@@ -5,16 +5,12 @@
 
 In this project, we explore the fascinating data of **Pokémon through the lens of unsupervised machine learning (UML).**
 
-
-
 ## 📝OBJECTIVE
 
 By uncovering hidden patterns and insights from the Pokémon dataset without relying on predefined labels,
 the **objective** of this analysis is to **group and rank pokemons based on selected characteristics: HP, Attack, Defense, SP Attack, and SP Defense**.
 
 To achieve this, we apply a variety of UML techniques including clustering, factor analysis, ranking, and correspondence analysis (CA).
-
-
 
 ## 📝METHODOLOGY
 
@@ -25,14 +21,13 @@ To achieve this, we apply a variety of UML techniques including clustering, fact
 
 By applying these techniques, we aim to gain a comprehensive understanding of the Pokémon data, reveal distinctive groupings, and uncover valuable relationships that could inform further research or applications in the Pokémon domain.
 
+## 📝DATA REFERENCE
 
+https://www.kaggle.com/datasets/rounakbanik/pokemon
 
 ## 📝RESULTS
 Factor analysis was conducted to reduce the number of variables, which allowed us to rank Pokémon based on the factors.
 This reduction facilitated ranking and clustering Pokémons by their similarities.
-
-
-
 
 # It was possible to define which of the clusters has the best pokemons according to defined parameters.
 
